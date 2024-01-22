@@ -15,6 +15,10 @@ aplikasi ini dipilih karena pada minimarket memiliki sistem inventory yang masih
 Sistem yang dirancang dengan pendekatan yang simple, dengan tujuan untuk memberikan solusi praktis 
 bagi tim bagian inventory, memudahkan proses menambah, mengedit, dan menghapus barang, serta mengurangi 
 potensi kesalahan dalam pengelolaan inventaris.
+# 👨🏻‍💻Anggota Kelompok:
+- 5210311002 Adhimas Yoga Pratama https://github.com/adhiimas
+- 5210311003 Farid Arel Saputra https://github.com/FaridArel
+- 5210311027 Muhammad Raihan https://github.com/raihanayam
 # ⚙️Teknologi yang dipakai di Website:
 - HTML/CSS
 - Cors
